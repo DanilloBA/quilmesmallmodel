@@ -4,8 +4,7 @@
 
 
 
-body{background-color: #ff4b3b;
-background-image: linear-gradient(147deg, #ff4b3b 0%, #ff2567 74%);
+body{background-image: url(asset/walpaper\ 1.png);
 background-attachment: fixed;}
 
 .introduccion{display: flex;text-align: center;justify-content: center; margin-top: 30px ;flex-direction: column;}
@@ -23,7 +22,7 @@ background-attachment: fixed;}
 .formato-1{background-color: #FAD961;
 background-image: linear-gradient(90deg, #FAD961 0%, #F76B1C 100%);
 ;display: flex;text-align: center;justify-content: center; margin-top: 30px ;flex-direction: column;
-margin-top: 30px;}
+margin-top: 50px;}
 
 .formato-2{display: flex;text-align: center;justify-content: center;margin-top: 15px; flex-direction: column;align-items: center;}
 
@@ -103,7 +102,7 @@ margin: 40px;text-align: center;}
 .extra-11{margin-top: 50px;width: 80%;display: flex;align-items: center;justify-content: center;}
 
 
-.complemento-0{display: flex;align-items: center;justify-content: center;margin: 20px}
+.complemento-0{display: flex;align-items: center;justify-content: center;margin: 20px;margin-top: 100px;}
 
 .complemento-1{display: flex;align-items: center;background-color: #FA8BFF;
 background-image: linear-gradient(45deg, #d70a9d 0%, #fbff2b 52%, #2BFF88 90%);height: auto;text-align: center;
