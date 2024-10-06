@@ -1,0 +1,124 @@
+
+
+
+
+
+
+body{background-color: #ff4b3b;
+background-image: linear-gradient(147deg, #ff4b3b 0%, #ff2567 74%);
+background-attachment: fixed;}
+
+.introduccion{display: flex;text-align: center;justify-content: center; margin-top: 30px ;flex-direction: column;}
+
+.titulo-0{display flex ;margin: 70px;}
+
+.titulo-1{color: azure;margin: 30px;}
+
+.titulo-2{color:aliceblue;margin: 70px;}
+
+.sliders{margin-top: 50px;}
+
+.foto-1{margin-top: 50px;}
+
+.formato-1{background-color: #FAD961;
+background-image: linear-gradient(90deg, #FAD961 0%, #F76B1C 100%);
+;display: flex;text-align: center;justify-content: center; margin-top: 30px ;flex-direction: column;
+margin-top: 30px;}
+
+.formato-2{display: flex;text-align: center;justify-content: center;margin-top: 15px; flex-direction: column;align-items: center;}
+
+.formato-3{display: flex;justify-content: center;align-items: center;margin-top: 20px;flex-wrap: wrap;}
+
+.formato-4{display: flex;justify-content: center;align-items: center;margin-top: 60px;;text-align: center;margin
+: 50px;border-radius: 0.3em;padding: 20px;}
+
+.formato-5{display: flex;justify-content: center;align-items: center;
+flex-direction: column;background-color: #c200e9;
+background-image: linear-gradient(160deg, #e9e900 0%, #da0cc2 100%);margin-top: 40px}
+
+.formato-6{display: flex;align-items: center;justify-content: center;}
+
+.formato-7{display: flex;align-items: center;background-image: url(asset/quilmes\ mall\ walpaper\ -2.png) ; background-repeat: no-repeat;background-attachment: fixed
+;justify-content: center;background-size: cover;flex-direction: column;}
+
+
+.formato-8{display: flex;flex-direction: column;background-color: #c200e9;
+background-image: linear-gradient(160deg, #e9e900 0%, #da0cc2 100%);margin-top: 40px;width: 100%;height:400px;}
+
+
+
+.subformato-2{display: flex;justify-content: center;align-items: center;text-align: center;margin: 20px;flex-wrap: wrap;}
+
+.subformato-3{display: flex;width: 250px;background-color: #FAD961;
+background-image: linear-gradient(90deg, #FAD961 0%, #c7f71c 100%);
+color: black;margin: 10px;text-align: center;justify-content: center;}
+
+.subformato-4{display: flex;align-items: center;border-radius: 50%;width: 300px;height: 300px;margin: 20px;}
+
+.subformato-5{display: flex;color: aliceblue;margin: 40px;}
+
+
+.subformato-6{color: rgb(0, 0, 0);display: flex;align-items: center;width: 60%;}
+
+.subformato-7{display: flex;justify-content: center;align-items: center;width: 70%;}
+
+.subformato-8{display: flex;align-items: center;justify-content: center;flex-direction: row;flex-wrap: wrap;margin-top: 100px;}
+
+.subformato-9{display: flex;align-items: center;text-align: center;flex-wrap: wrap;margin-top: 30px;justify-content: center;}
+
+
+.subformato-10{display: flex;margin-top: 150px;flex-direction: column;text-align: center;backdrop-filter: blur(10px);width: 340px;background-color: rgba(255, 255, 255, 0.145);width: 100%;justify-content: center;align-items: center;}
+
+.subformato-11{display: flex;justify-content: center;margin-top: 50px;flex-direction: column;text-align: center;align-items: center;}
+
+.subformato-12{display: flex;flex-direction: row;margin-top: 20px;text-align: center;}
+
+.subformato-13{display: flex;}
+
+
+.extra{width: 50%; margin: 40px;}
+
+.extra-2{display: flex;backdrop-filter: blur(10px);width: 340px;background-color: rgb(14, 13, 13);border-radius: 50%;justify-content: center;height: 340px;align-items: center;}
+
+.extra-3{display: flex; margin: 20px;}
+
+.extra-4{display: flex;align-items: center;justify-content: center;
+border-radius: 0.3em;width: 200px;height: 200px;backdrop-filter: blur(10px);background-color: rgba(237, 248, 248, 0.151);
+margin: 40px;text-align: center;}
+
+.extra-4:hover{transition: all 2s ease-in-out;border-radius: 50%;}
+
+.extra-5{display: flex;color: rgb(250, 250, 249);}
+
+.extra-6{display: flex;align-items: center;justify-content: center;width: 60%;margin-top: 100px;}
+
+.extra-7{color: aliceblue;text-align: center;justify-content: center;}
+
+.extra-8{color: rgb(220, 243, 13);}
+
+.extra-9{display: flex;width: 300px;margin-top: 50px;}
+
+.extra-10{width:40px;height: 40px;}
+
+.extra-11{margin-top: 50px;width: 80%;display: flex;align-items: center;justify-content: center;}
+
+
+.complemento-0{display: flex;align-items: center;justify-content: center;margin: 20px}
+
+.complemento-1{display: flex;align-items: center;background-color: #FA8BFF;
+background-image: linear-gradient(45deg, #d70a9d 0%, #fbff2b 52%, #2BFF88 90%);height: auto;text-align: center;
+}
+
+.complemento-2{width: 300px;display: flex;margin: 50px;height: 70px;}
+
+.complemento-3{margin: 30px;}
+
+.complemento-4{}
+
+.complemento-5{display: flex;justify-content: center;flex-wrap: wrap;align-items: center;margin-top: 100px;}
+
+.orden-whatsapp{ height: 40px; width: 40px;
+background-image: url(asset/Whatsapp_logo_svg.png);}
+
+.disposicion{display: flex;justify-content: center;align-items: center;flex-direction: column;}
+
