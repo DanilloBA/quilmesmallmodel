@@ -125,7 +125,9 @@ background-image: url(asset/Whatsapp_logo_svg.png);}
 
 .disposicion{display: flex;justify-content: center;align-items: center;flex-direction: column;}
 
+.espacio-publicitario{display: flex;align-items: center;justify-content: center;flex-direction: column;}
 
+.marketing{display: flex;width:100%;flex-wrap: wrap;}
 
 
 
