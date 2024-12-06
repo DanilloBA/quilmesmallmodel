@@ -52,7 +52,7 @@ background-image: linear-gradient(160deg, #e9e900 0%, #da0cc2 100%);margin-top: 
 background-image: linear-gradient(90deg, #FAD961 0%, #c7f71c 100%);
 color: black;margin: 10px;text-align: center;justify-content: center;}
 
-.subformato-4{display: flex;align-items: center;border-radius: 50%;width: 300px;height: 300px;margin: 20px;}
+.subformato-4{display: flex;align-items: center;border-radius: 50%;width: 270px;height: 270px;margin: 10px;justify-content: center;}
 
 .subformato-5{display: flex;color: aliceblue;margin: 40px;}
 
@@ -78,6 +78,9 @@ color: black;margin: 10px;text-align: center;justify-content: center;}
 border-radius: 03em;}
 
 
+
+.extra-0{display: flex;align-items: center;justify-content: center;flex-direction: column;flex-wrap: wrap;text-align: center;
+width:80%;}
 
 .extra{width: 50%; margin: 40px;}
 
@@ -105,20 +108,28 @@ margin: 40px;text-align: center;}
 
 .extra-11{margin-top: 50px;width: 80%;display: flex;align-items: center;justify-content: center;}
 
+.extra-12{background-color: #4159d05b;
+background-image: linear-gradient(43deg, #4159d05a 0%, #c850c057 46%, #ffcd7050 100%);
+}
+
+.final{display: flex;align-items: center;justify-content: center;flex-direction: row;flex-wrap: wrap;margin-top: 30px;}
+
+.publi-1{width: 250px;border-radius: 0.3em;margin: 10px;}
+
 
 .complemento-0{display: flex;align-items: center;justify-content: center;margin: 20px;margin-top: 100px;}
 
 .complemento-1{display: flex;align-items: center;background-color: #FA8BFF;
 background-image: linear-gradient(45deg, #d70a9d 0%, #fbff2b 52%, #2BFF88 90%);height: auto;text-align: center;
-}
+justify-content: center;}
 
 .complemento-2{width: 300px;display: flex;margin: 50px;height: 70px;}
 
-.complemento-3{margin: 30px;}
+.complemento-3{margin: 0%;}
 
 .complemento-4{}
 
-.complemento-5{display: flex;justify-content: center;flex-wrap: wrap;align-items: center;margin-top: 100px;}
+.complemento-5{display: flex;justify-content: center;flex-wrap: wrap;align-items: center;margin-top: 100px;width:80%;}
 
 .orden-whatsapp{ height: 40px; width: 40px;
 background-image: url(asset/Whatsapp_logo_svg.png);}
