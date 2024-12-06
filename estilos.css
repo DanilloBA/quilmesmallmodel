@@ -52,7 +52,7 @@ background-image: linear-gradient(160deg, #e9e900 0%, #da0cc2 100%);margin-top: 
 background-image: linear-gradient(90deg, #FAD961 0%, #c7f71c 100%);
 color: black;margin: 10px;text-align: center;justify-content: center;}
 
-.subformato-4{display: flex;align-items: center;border-radius: 50%;width: 260px;height: 260px;margin: 5px;justify-content: center;}
+.subformato-4{display: flex;align-items: center;border-radius: 50%;width: 250px;height: 250px;margin: 5px;justify-content: center;}
 
 .subformato-5{display: flex;color: aliceblue;margin: 40px;}
 
